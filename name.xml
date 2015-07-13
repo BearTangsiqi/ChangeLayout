@@ -1,0 +1,144 @@
+  <!--4 QQ浏览器-->
+  <favorite
+        launcher:packageName="com.tencent.mtt"
+        launcher:className="com.tencent.mtt.SplashActivity"
+        launcher:container="-101"
+        launcher:screen="3"
+        launcher:x="3"
+        launcher:y="0" >
+  </favorite>
+  
+ <!--14 大众点评-->
+  <favorite
+        launcher:packageName="com.dianping.v1"
+        launcher:className="com.dianping.main.guide.SplashScreenActivity"
+        launcher:screen="1"
+        launcher:x="0"
+        launcher:y="3" >
+  </favorite>
+
+  <!--15 PP聚力-->
+  <favorite
+        launcher:packageName="com.pplive.androidphone"
+        launcher:className="com.pplive.androidphone.ui.FirstActivity"
+        launcher:screen="1"
+        launcher:x="1"
+        launcher:y="3" >
+  </favorite>
+
+  <!--16 设置-->
+  <favorite
+        launcher:packageName="com.android.settings"
+        launcher:className="com.android.settings.SettingsEMUI"
+        launcher:screen="1"
+        launcher:x="3"
+        launcher:y="3" >
+  </favorite>
+
+  <!--17 百度地图-->
+  <favorite
+        launcher:packageName="com.baidu.BaiduMap"
+        launcher:className="com.baidu.baidumaps.WelcomeScreen"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+  
+   <!--18 网易云音乐-->
+  <favorite
+        launcher:packageName="com.netease.cloudmusic"
+        launcher:className="com.netease.cloudmusic.activity.LoadingActivity"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+  
+    <!--18 酷我音乐-->
+  <favorite
+        launcher:packageName="cn.kuwo.player"
+        launcher:className="cn.kuwo.player.activities.EntryActivity"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+  <!--18 今日热点-->
+  <favorite
+        launcher:packageName="com.ss.android.article.news"
+        launcher:className="com.ss.android.article.news.activity.SplashActivity"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+    <!--18 美团-->
+  <favorite
+        launcher:packageName="com.sankuai.meituan"
+        launcher:className="com.sankuai.meituan.activity.Welcome"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+  <!--18 支付宝-->
+  <favorite
+        launcher:packageName="com.eg.android.AlipayGphone"
+        launcher:className="com.eg.android.AlipayGphone.AlipayLogin"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+  <!--18 美颜相机-->
+  <favorite
+        launcher:packageName="com.meitu.meiyancamera"
+        launcher:className="com.meitu.meiyancamera.MyxjActivity"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+  <!--18 消灭星星2015-->
+  <favorite
+        launcher:packageName="com.longkoo.xingxing2015"
+        launcher:className="com.longkoo.xingxing2015.AppActivity"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+    <!--18 触宝电话-->
+  <favorite
+        launcher:packageName="com.cootek.smartdialer"
+        launcher:className="com.cootek.smartdialer.TStartup"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+     <!--18 猎豹清理大师-->
+  <favorite
+        launcher:packageName="com.cleanmaster.mguard_cn"
+        launcher:className="com.keniu.security.main.MainActivity"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+     <!--18 应用管家-->
+  <favorite
+        launcher:packageName="com.shyz.steward"
+        launcher:className="com.shyz.steward.app.SplashActivity"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+  <!--18 百度搜索-->
+  <favorite
+        launcher:packageName="com.baidusearch.mobile"
+        launcher:className="com.baidusearch.mobile.ui.SplashActivity"
+        launcher:screen="1"
+        launcher:x="2"
+        launcher:y="3" >
+  </favorite>
+  <!-- 百度搜索小窗口-->
+  <appwidget
+            launcher:packageName="com.baidusearch.mobile"
+            launcher:className="com.baidusearch.mobile.receiver.WidgetProvider"
+            launcher:screen="0"
+            launcher:x="0"
+            launcher:y="2"
+            launcher:spanX="4"
+            launcher:spanY="1" />
