@@ -1,3 +1,8 @@
+<body>
+<!--删除替换-->
+<favorite packageName="a.a.a" className="a.a.a.a" apkName="a.apk"/>
+<favorite packageName="b.b.b" className="b.b.b.b" apkName="b.apk"/>
+<favorite packageName="c.c.c" className="c.c.c.c" apkName="c.apk"/>
 <!--大众点评-->
 <favorite packageName="com.dianping.v1" className="com.dianping.main.guide.SplashScreenActivity" apkName=""/>
 <!--PP聚力-->
@@ -5,7 +10,7 @@
 <!--设置-->
 <favorite launcher:packageName="com.android.settings" launcher:className="com.android.settings.SettingsEMUI" apkName=""/>
 <!--百度地图-->
-<favorite packageName="com.baidu.BaiduMap" className="com.baidu.baidumaps.WelcomeScreen" apkName="baidumap_AndroidPhone_v8.2.5(8.2.5.3)_1006891a.apk"\>
+<favorite packageName="com.baidu.BaiduMap" className="com.baidu.baidumaps.WelcomeScreen" apkName="baidumap_AndroidPhone_v8.2.5(8.2.5.3)_1006891a.apk" />
 <!--网易云音乐-->
 <favorite packageName="com.netease.cloudmusic" className="com.netease.cloudmusic.activity.LoadingActivity" apkName=""/>
 <!--酷我音乐-->
@@ -30,3 +35,4 @@
 <favorite packageName="com.baidusearch.mobile" className="com.baidusearch.mobile.ui.SplashActivity" apkName="BaiduSearch-release.apk" />
 <!--QQ浏览器-->
 <favorite packageName="com.tencent.mtt" className="com.tencent.mtt.SplashActivity" apkName="" />
+</body>
